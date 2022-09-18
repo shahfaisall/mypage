@@ -1,11 +1,12 @@
 body {background-color: black;
   	font-size: 20px; 
+  	color:white;
   	font-family: normal;
 line-height: 1.6em;
-  padding-top: 0px;
-  padding-right: 50px;
+  padding-top: 50px;
+  padding-right: 250px;
   padding-bottom: 50px;
-  padding-left: 50px;
+  padding-left: 250px;
 }
 
 
@@ -70,13 +71,13 @@ top: 15%;
   #lala{
 margin-top:10%;}
 div{
-  background-color:  blanchedalmond;
+  background-color:  gray;
   width: 93%;
   padding: 1cm;
   margin-top: 0.5cm;
   line-height: 40px;
 }
-#zama{background-color: powderblue;
+#zama{background-color:gray;
   width: 93%;
   border: 10px;
   padding: 1cm;
