@@ -7,6 +7,8 @@ line-height: 1.6em;
   padding-right: 200px;
   padding-bottom: 50px;
   padding-left: 200px;
+  position: relative;
+  overflow-y: scroll;
 }
 
 
