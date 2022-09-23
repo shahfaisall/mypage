@@ -1,6 +1,6 @@
 body {background-color: black;
   	font-size: 25px; 
-  	color:gray;
+  	color:white;
   	font-family: normal;
 line-height: 1.6em;
   padding-top: 50px;
@@ -73,13 +73,13 @@ top: 15%;
   #lala{
 margin-top:10%;}
 div{
-  background-color:  orange;
+  background-color:  gray;
   width: 93%;
   padding: 1cm;
   margin-top: 0.5cm;
   line-height: 40px;
 }
-#zama{background-color:orange;
+#zama{background-color:gray;
   width: 93%;
   border: 10px;
   padding: 1cm;
