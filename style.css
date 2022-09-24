@@ -4,10 +4,9 @@ body {background-color: black;
   	font-family: normal;
 line-height: 1.6em;
   padding-top: 50px;
-  padding-right: 100%;
+  padding-right: 200px;
   padding-bottom: 50px;
-  padding-left: 100%;
-  position: relative;
+  padding-left: 200px;
   overflow-y: scroll;
 }
 
