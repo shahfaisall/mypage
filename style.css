@@ -45,11 +45,11 @@ h1{
   background-color: #111111;
 }
 #khan{margin-right: 30%;
-margin-left: 10% }
+margin-left: 1% }
 
 
 .khan1{margin-right: 30%;
-margin-left: 2%; }
+margin-left: 1%; }
 #my {
   border-radius: 15px 50px;
   background: #73AD21;
@@ -72,6 +72,6 @@ margin-top:10%;}
   width: 93%;
   border: 10px;
   padding: 1cm;
-  margin-top: 20%; 
+  margin-top: 1%; 
   line-height: 40px;
 }
