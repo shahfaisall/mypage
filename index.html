@@ -19,6 +19,28 @@ Shah Faisal's homepage
  <b> <h1>Shah Faisal's homepage </h1></b>
 
 </head>
+	.container {
+      display: flex;
+flex-wrap: wrap; /* Allows columns to wrap on smaller screens */
+      margin: 0 auto; /* Centers the container horizontally */
+      width: 80%; /* Adjust width as needed */
+    }
+    
+    .column {
+      flex: 1 1 50%; /* Makes each column half the width */
+      padding: 10px;
+      box-sizing: border-box; /* Ensures padding doesn't affect width */
+    }
+    
+    .column img {
+      width: 100%;
+      display: block;
+      margin-bottom: 10px;
+    }
+    
+    .description {
+      text-align: justify; /* Justifies text for better readability */
+    }
 <body>
   <div class="container">
     <div class="column">
