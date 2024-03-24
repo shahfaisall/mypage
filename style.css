@@ -6,7 +6,6 @@ body {background-color: white;
   margin-right: 3%; 
   margin-left: 3%;
 }
-  
 
 img{
   border-radius: 8px;
@@ -14,11 +13,14 @@ right: 50%;
 top: 90px;
   display: block;
   width: 18%;}
+
   h1{
+  font-size: 1.5em;
   text-align: center;
   font-size: 110px;}
   .box-1{border:56px;
   	border-color: red;}
+
   	#para1 {
   list-style-type: none;
   margin: 0;
@@ -26,9 +28,7 @@ top: 90px;
   overflow: hidden;
   background-color: #333333;
 }
-h1{
-  font-size: 1.5em;
-}
+
 .sonn{
   float: left;
 }
